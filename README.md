@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm DIVYANSHU MAURYA</h1>
+<h1 align="center">Hi 👋, I'm DIVYANSHU PANDEY</h1>
 <h3 align="center">Full Stack Web Developer | Software Development Intern | Problem Solver</h3>
 <img align="right" alt="coding" width="400" src="gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshumaurya599&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshumaurya599" /> </p>
 
-- 🌱 I’m currently learning Javascript, C++, DSA, React Native
+- 🌱 I’m currently learning Javascript, C++, DSA, Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyanshumaurya599](https://github.com/divyanshumaurya599)
+- 👨‍💻 All of my projects are available at [https://github.com/divyanshupandeyy](https://github.com/divyanshupandeyy)
 
-- 💬 Ask me about C LANGUAGE, JAVA
+- 💬 Ask me about C LANGUAGE, C++
 
 - 📫 How to reach me ****
 
